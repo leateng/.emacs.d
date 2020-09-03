@@ -9,6 +9,13 @@
                          ("user42" . "http://elpa.emacs-china.org/user42/")))
 (package-initialize)
 
+;; Download Evil
+;;(unless (package-installed-p 'evil)
+;;  (package-install 'evil))
+
+;; Enable Evil
+;;(require 'evil)
+;;(evil-mode 1)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
