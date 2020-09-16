@@ -1,0 +1,1 @@
+("~/.emacs.d/" "/mnt/d/work/code/CRM_NEW/")
